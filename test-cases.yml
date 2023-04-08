@@ -57,21 +57,7 @@
        
   expected-result: |
     При переходе в корзину, там отображается добавленный товар.
-         
-- summary: |
-    Успешный поиск по ключевому слову Iphone
-  requirement: |
-    Пользователь должен иметь возможность искать товары по ключевому слову
-  prerequisites:
-    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
-  test-data: |
-    empty
-  steps:
-    - Вводим в строке поиска "Iphone"
-   
-  expected-result: |
-    На странице отображены товары, в котором есть слово "Iphone"
-        
+              
 - summary: |
     Успешная фильтрация по категории "smartphones"
   requirement: |
