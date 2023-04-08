@@ -107,3 +107,5 @@ test-cases:
   - summary: |
       Сайтом возможно пользоваться в броузере Google Chrome
     status: pass
+    
+  bugreports: []
