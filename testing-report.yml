@@ -33,7 +33,7 @@
   
 - summary: |
     Работает чек-бокс Apple в категории "Производитель"
-  status: pass      
+  status: fail    
   
 - summary: |
     Работает чек-бокс Al Munakh в категории "Производитель"
