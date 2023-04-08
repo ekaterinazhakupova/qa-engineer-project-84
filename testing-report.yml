@@ -73,7 +73,7 @@
   
 - summary: |
     Работает поиск по названию товара и цене
-  status: fail  
+  status: pass  
   
 - summary: |
     В карточке товара работает хештэг категории smartphones
