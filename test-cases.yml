@@ -436,4 +436,18 @@
     - Выбираем Iphone 12 Pro через панель инструментов устройства
    
   expected-result: |
-    Сайт адаптирован для Iphone 12 Pro  
+    Сайт адаптирован для Iphone 12 Pro 
+    
+- summary: |
+    Сайтом возможно пользоваться в броузере Google Chrome
+  requirement: |
+    Пользователь имеет возможность комфортно пользоватья сайтом в браузере Google Chrome
+  prerequisites:
+    Открыт браузер Google Chrome
+  test-data: |
+    empty
+  steps:
+    - Открыва главную страницу магазина https://hexlet-products-store.vercel.app/. 
+   
+  expected-result: |
+    Сайт адаптирован для Google Chrome    
