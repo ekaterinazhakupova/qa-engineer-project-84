@@ -106,3 +106,7 @@
 - summary: |
     Сайт адаптирован для использования на Iphone 12 Pro
   status: fail  
+
+- summary: |
+    Сайтом возможно пользоваться в броузере Google Chrome
+  status: fail  
