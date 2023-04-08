@@ -369,7 +369,7 @@
     empty
   steps:
     - Добавляем в корзину Iphone 9
-    - Добавляем в корзину Iphone X
+    - Добавляем в корзину Vacbook Pro
     - Нажимаем кноку "Корзина"
    
   expected-result: |
