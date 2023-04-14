@@ -25,14 +25,6 @@ test-cases:
     status: pass
     
   - summary: |
-      Успешная фильтрация по категории "fragrances"
-    status: pass
-    
-  - summary: |
-      Успешная фильтрация по категории "skincare"
-    status: pass
-    
-  - summary: |
       Работает чек-бокс Apple в категории "Производитель"
     status: pass
     
