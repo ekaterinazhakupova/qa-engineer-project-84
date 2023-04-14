@@ -61,11 +61,7 @@ test-cases:
     status: pass
     
   - summary: |
-      Работает сортировка товаров по цене до 11190
-    status: pass
-    
-  - summary: |
-      Работает сортировка товаров по цене до 5000
+      Работает сортировка товаров по цене от 1000
     status: pass
     
   - summary: |
@@ -93,7 +89,7 @@ test-cases:
     status: pass
     
   - summary: |
-      Товар успешно оформляется
+      Заказ успешно оформляется
     status: pass
     
   - summary: |
