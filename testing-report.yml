@@ -21,15 +21,7 @@
   
 - summary: |
     Успешная фильтрация по категории "laptops"
-  status: pass 
-  
-- summary: |
-    Успешная фильтрация по категории "fragrances"
-  status: pass   
-  
-- summary: |
-    Успешная фильтрация по категории "skincare"
-  status: pass     
+  status: pass  
   
 - summary: |
     Работает чек-бокс Apple в категории "Производитель"
