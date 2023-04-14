@@ -87,34 +87,6 @@
     На странице отображены товары которые соответствуют категории "laptops"
     
 - summary: |
-    Успешная фильтрация по категории "fragrances"
-  requirement: |
-    Пользователь имеет возможность искать товары по категории "fragrances"
-  prerequisites:
-    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
-  test-data: |
-    empty
-  steps:
-    - Выбираем категорию "fragrances"
-   
-  expected-result: |
-    На странице отображены товары которые соответствуют категории "fragrances"
-    
-- summary: |
-    Успешная фильтрация по категории "skincare"
-  requirement: |
-    Пользователь имеет возможность искать товары по категории "skincare"
-  prerequisites:
-    Открыта главная страница магазина https://hexlet-products-store.vercel.app/
-  test-data: |
-    empty
-  steps:
-    - Выбираем категорию "skincare"
-   
-  expected-result: |
-    На странице отображены товары которые соответствуют категории "skincare" 
-    
-- summary: |
     Работает чек-бокс Apple в категории "Производитель"
   requirement: |
     Пользователь имеет возможность отсортировать товары по производителю "Apple"
